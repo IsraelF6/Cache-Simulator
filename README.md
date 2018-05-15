@@ -1,11 +1,11 @@
 # Cache-Simulator
 
 
-I. Purpose
+I. Purpose:
 The purpose of this project is to exercise your understanding of caches of various sizes and configurations, 
 as well as the write policies of write-through and write-back.
 
-II. Basic Description
+II. Basic Description:
 You will be implementing a cache simulator in C, which will be contained in the single file proj3.c. 
 Your program should take as command line arguments the following information:
 - b: size of block in bytes.
@@ -60,7 +60,7 @@ Hits: 2
 Misses: 5
 Memory References: 6
 
-III. Trace File Description
+III. Trace File Description:
 The .trace files that will be used as input to your cache simulator contain any number of lines,
 where each line has the following format:
 
